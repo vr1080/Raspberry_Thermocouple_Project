@@ -1,0 +1,206 @@
+PLOT REPORT
+-----------
+
+Report File:        Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC (PCB - PLOT REPORT).txt
+Report Written:     Tuesday, March 29, 2016
+Project Path:       Z:\DesignSpark\Boards\Kelsey\RPI_adapter\RPI_adapter.prj
+Design Path:        Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC.pcb
+Design Title:       
+Created:            12/26/2013 4:33:00 PM
+Last Saved:         3/29/2016 4:07:18 PM
+Editing Time:       43870 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.3 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    ---------------------------------
+    D17    Rectangle 61.00 X 66.00
+    D18    Round 62.00
+    D19    Round 38.00
+    D110   Round 61.00
+    D142   Round 250.09
+    D143   Round 254.03
+
+Gerber Output
+=============
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D70    Round 5.00
+    D71    Round 1.00
+    D84    Round 12.00
+
+Gerber Output
+=============
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ---------------------------------
+    D70    Round 5.00
+    D21    Round 6.00
+    D22    Round 10.00
+    D28    Rectangle 55.00 X 60.00
+    D29    Round 56.00
+    D75    Round 32.00
+    D90    Round 55.00
+    D144   Round 244.09
+    D145   Round 248.03
+    D146   Round 16.00
+
+Gerber Output
+=============
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ---------------------------------
+    D147   Rectangle 51.00 X 56.00
+
+Gerber Output
+=============
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D70    Round 5.00
+    D21    Round 6.00
+    D22    Round 10.00
+    D29    Round 56.00
+    D75    Round 32.00
+    D83    Round 8.00
+    D90    Round 55.00
+    D144   Round 244.09
+    D145   Round 248.03
+    D146   Round 16.00
+
+Gerber Output
+=============
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size      Count   ID
+    ---------------------------------
+    T001  00.016 in 9     D
+    T002  00.032 in 6     C
+    T003  00.039 in 120   B
+    T004  00.112 in 4     A
+    ---------------------------------
+    Total           139
+    ---------------------------------
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size      Count   ID
+    ---------------------------------
+    T001  00.025 in 1
+    ---------------------------------
+    Total           1
+    ---------------------------------
+
+
+Gerber Output
+=============
+
+Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    112   Y      100  Round A
+    39    Y      100  Round B
+    32    Y      100  Round C
+    16    Y      100  Round D
+
+    D-Code Shape  (thou)
+    -----------------------
+    D70    Round 5.00
+    D76    Round 100.00
+
+End Of Report.

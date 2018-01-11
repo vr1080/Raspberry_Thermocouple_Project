@@ -1,0 +1,30 @@
+Unmatched Fonts
+---------------
+
+Report Written:     Thursday, January 11, 2018
+Design Path:        C:\Users\GreenLantern\Google Drive\Documents\Tekmos\Tekmos_copy\DesignSpark_PCB\Boards\RPI_adapter\~Raspberry adaptor for 68pin PLCC.pcb
+Design Title:       
+Created:            12/26/2013 3:33:00 PM
+Last Saved:         3/29/2016 3:07:18 PM
+Editing Time:       43870 min
+Units:              thou (precision 0)
+
+
+The design has unmatched fonts on this system for the following:
+================================================================
+
+
+Unmatched fonts on named styles:
+================================
+
+    Font '@Arial Unicode MS' used by text style 'Style4'
+
+Unmatched fonts on local styles:
+================================
+
+    Font '@Arial Unicode MS' used by Text on layer 'Top Silkscreen' at (1728, -28)
+    Font '@Arial Unicode MS' used by Text on layer 'Top Silkscreen' at (-328, -28)
+    Font '@Arial Unicode MS' used by Text on layer 'Top Silkscreen' at (832, 820)
+    Font '@Arial Unicode MS' used by Text on layer 'Top Silkscreen' at (832, 748)
+
+End Of Report.

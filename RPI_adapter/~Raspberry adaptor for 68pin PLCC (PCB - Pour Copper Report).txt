@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report File:        Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC (PCB - Pour Copper Report).txt
+Report Written:     Tuesday, March 29, 2016
+Project Path:       Z:\DesignSpark\Boards\Kelsey\RPI_adapter\RPI_adapter.prj
+Design Path:        Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC.pcb
+Design Title:       
+Created:            12/26/2013 4:33:00 PM
+Last Saved:         3/29/2016 4:04:16 PM
+Editing Time:       43869 min
+Units:              thou (precision 0)
+
+
+End Of Report.

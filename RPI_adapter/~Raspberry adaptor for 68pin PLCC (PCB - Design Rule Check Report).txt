@@ -1,0 +1,289 @@
+Design Rule Check Report
+------------------------
+
+Report File:        Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC (PCB - Design Rule Check Report).txt
+Report Written:     Tuesday, March 29, 2016
+Project Path:       Z:\DesignSpark\Boards\Kelsey\RPI_adapter\RPI_adapter.prj
+Design Path:        Z:\DesignSpark\Boards\Kelsey\RPI_adapter\~Raspberry adaptor for 68pin PLCC.pcb
+Design Title:       
+Created:            12/26/2013 4:33:00 PM
+Last Saved:         3/29/2016 4:06:28 PM
+Editing Time:       43870 min
+Units:              thou (precision 0)
+
+
+Results
+=======
+
+Pad to Silkscreen error (P-S) at (-316 1888) on layer "Top Silkscreen".
+    Silkscreen text '*' overlaps pad.
+Pad to Board Error (P-B) between (-514 1981) and (-533 1981) on Layer "[All]".
+    Error between Pad and Board, Gap is 16 needs to be 40.
+Pad to Silkscreen error (P-S) at (-328 -28) on layer "Top Silkscreen".
+    Silkscreen text '*' overlaps pad.
+Pad to Board Error (P-B) between (-516 52) and (-533 52) on Layer "[All]".
+    Error between Pad and Board, Gap is 14 needs to be 40.
+Pad to Board Error (P-B) between (2016 52) and (2033 52) on Layer "[All]".
+    Error between Pad and Board, Gap is 14 needs to be 40.
+Pad to Board Error (P-B) between (2014 1981) and (2033 1981) on Layer "[All]".
+    Error between Pad and Board, Gap is 16 needs to be 40.
+Track to Drill Hole error (T-D) at (-200 1931) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (200 1931) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (-200 2031) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (-100 2031) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (0 2031) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (400 2031) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (600 1931) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (700 2031) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Pad Error (T-P) between (1681 2012) and (1672 2003) on Layer "Bottom Copper".
+    Error between Component Pad J1.40 (Net 'GPIO_21') and Track (Net 'GND'), Gap is 4 needs to be 6.
+Track to Drill Hole error (T-D) at (1200 2031) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (1400 2031) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (1700 1931) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (270 926) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (170 526) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (1942 526) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (200 0) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (0 100) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (200 100) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (700 0) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (1200 100) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (1200 0) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (1700 0) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (1600 0) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Board Error (T-B) between (763 2088) and (763 2131) on Layer "Bottom Copper".
+    Error between Track (Net 'GND') and Board, Gap is 37 needs to be 40.
+Track to Board Error (T-B) between (1663 -50) and (1663 -99) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 39 needs to be 40.
+Track to Board Error (T-B) between (1163 -50) and (1163 -99) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 39 needs to be 40.
+Track to Board Error (T-B) between (1088 2088) and (1088 2131) on Layer "Bottom Copper".
+    Error between Track (Net 'GND') and Board, Gap is 37 needs to be 40.
+Track to Board Error (T-B) between (663 -50) and (663 -99) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 39 needs to be 40.
+Track to Board Error (T-B) between (1996 1604) and (2033 1604) on Layer "Top Copper".
+    Error between Track (Net 'GPIO_07') and Board, Gap is 31 needs to be 40.
+Track to Board Error (T-B) between (1688 2108) and (1688 2131) on Layer "Bottom Copper".
+    Error between Track (Net 'GPIO_18') and Board, Gap is 18 needs to be 40.
+Track to Board Error (T-B) between (1988 700) and (2033 700) on Layer "Bottom Copper".
+    Error between Track (Net 'GPIO_15') and Board, Gap is 39 needs to be 40.
+Gap in Net "GND" between (-508,127) and (1517,1894) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1567,1955) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1821,490) 
+    GND.
+Gap in Net "GND" between (-508,127) and (237,1449) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1839,785) 
+    GND.
+Gap in Net "GND" between (1667,1910) and (1804,1410) 
+    GND.
+Gap in Net "GND" between (-508,127) and (293,1060) 
+    GND.
+Gap in Net "GND" between (293,1060) and (294,1093) 
+    GND.
+Gap in Net "GND" between (-508,127) and (296,1194) 
+    GND.
+Gap in Net "GND" between (296,1194) and (776,1965) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1167,1908) 
+    GND.
+Gap in Net "GND" between (1167,1908) and (1217,1894) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1267,1908) 
+    GND.
+Gap in Net "GND" between (1517,1894) and (1567,1908) 
+    GND.
+Gap in Net "GND" between (1667,1910) and (1617,1894) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1846,1679) 
+    GND.
+Gap in Net "GND" between (1846,1679) and (1873,1581) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1905,643) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1909,1202) 
+    GND.
+Gap in Net "GND" between (-508,127) and (237,1388) 
+    GND.
+Gap in Net "GND" between (237,1449) and (569,1527) 
+    GND.
+Gap in Net "GND" between (296,1194) and (622,1535) 
+    GND.
+Gap in Net "GND" between (-508,127) and (827,2000) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1713,2106) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1839,585) 
+    GND.
+Gap in Net "GND" between (1667,1910) and (1846,1466) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1905,543) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1909,1250) 
+    GND.
+Gap in Net "GND" between (1804,1410) and (1909,1350) 
+    GND.
+Gap in Net "GND" between (1909,1350) and (1934,1385) 
+    GND.
+Gap in Net "GND" between (40,1404) and (-31,1087) 
+    GND.
+Gap in Net "GND" between (-508,127) and (-508,2052) 
+    GND.
+Gap in Net "GND" between (1713,2106) and (1945,2106) 
+    GND.
+Gap in Net "GND" between (-508,127) and (-508,-22) 
+    GND.
+Gap in Net "GND" between (-508,127) and (1945,-74) 
+    GND.
+Gap in Net "VDD3.3V" between (-508,127) and (329,-29) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-508,127) and (617,138) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (617,138) and (1884,1268) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-508,127) and (-372,314) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (-161,220) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-161,220) and (6,1042) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (-132,126) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (287,139) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (617,138) and (817,138) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (617,138) and (829,-29) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (829,-29) and (917,138) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (817,138) and (869,126) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (829,-29) and (929,-29) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (929,-29) and (1017,138) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (929,-29) and (1029,-29) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1017,138) and (1073,130) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1029,-29) and (1129,-29) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (1165,121) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (1176,265) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1165,121) and (1329,-29) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1329,-29) and (1361,111) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1361,111) and (1317,138) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (617,138) and (1333,888) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1361,111) and (1417,138) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (1429,-29) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1417,138) and (1465,121) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (1521,754) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (1533,125) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1533,125) and (1569,126) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1417,138) and (1608,305) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (1784,893) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1361,111) and (1633,656) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (1361,111) and (1701,620) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (1811,1092) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (145,494) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-508,127) and (-508,2052) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-508,127) and (1945,2106) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (-508,-22) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-338,-74) and (1945,-74) 
+    VDD3.3V.
+Gap in Net "VDD3.3V" between (-508,127) and (161,1921) 
+    VDD3.3V.
+
+Number of errors found : 112
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.
